@@ -160,18 +160,6 @@ The project uses Tailwind CSS for styling. Customize colors and themes in:
 - `tailwind.config.ts` - Tailwind configuration
 - `app/globals.css` - Global styles
 
-## 🌐 Deployment
-
-### Vercel (Recommended)
-1. Push your code to GitHub
-2. Connect your repository to [Vercel](https://vercel.com)
-3. Deploy with one click
-
-### Other Platforms
-- **Netlify**: Drag and drop the `out` folder after running `npm run build`
-- **GitHub Pages**: Use `next export` for static deployment
-- **Docker**: Create a Dockerfile for containerized deployment
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -184,15 +172,8 @@ The project uses Tailwind CSS for styling. Customize colors and themes in:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Built with [Next.js](https://nextjs.org/)
-- UI components from [Radix UI](https://www.radix-ui.com/)
-- Icons from [Lucide](https://lucide.dev/)
-- Styling with [Tailwind CSS](https://tailwindcss.com/)
-
 ---
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by [Your Name] - **Control is an Illusion** 🎭
+Made with ❤️ by 0wardriver0 - **Control is an Illusion** 🎭
